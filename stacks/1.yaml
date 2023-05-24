@@ -1,0 +1,7 @@
+---
+Resources:
+  MyBucket:
+    Type: "AWS::S3::Bucket"
+    Properties: {}
+
+# Se crea instancia Bucket para almacenar cualquier tipo de datos (fotos, videos, documentos, etc.) en Amazon S3
