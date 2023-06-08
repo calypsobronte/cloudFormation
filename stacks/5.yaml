@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2023-06-07'
+# AWSTemplateFormatVersion: '2023-06-07'
 Description: Caso de uso numero 1 -> El primero con 1 solo servidor y todas las máquinas cliente
 
 Parameters:

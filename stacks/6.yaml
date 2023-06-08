@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2023-06-07'
+# AWSTemplateFormatVersion: '2023-06-07'
 Description: Caso de uso numero 2 -> El segundo 4 grupos de 5 máquinas
 
 Parameters:
